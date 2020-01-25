@@ -1,0 +1,168 @@
+body{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+ .navbar a{
+   font-family: 'ZCOOL QingKe HuangYou', cursive;
+ }
+
+
+.texto-movil{
+    font-family: 'Bangers', cursive;
+}
+audio{
+  display: none;
+}
+.letra1{
+  font-family: 'Bangers', cursive;
+  font-weight: 400;
+  color: white;
+}
+.hero-section{
+ text-align: right;
+ background-image: url(../img/Foto-Header.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: #ffffff;
+ text-shadow: 2px 3px 2px #707070;
+ padding: 1px 50px 1px 10px;
+ background-position: center;
+}
+
+.bordes{
+  width: 100%;
+height: 25%;
+right: 10px;
+bottom: 15px;
+box-shadow: 0px 15px 10px rgba(0,0,0,0.7);
+}
+
+.texto-frase1{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 7px;
+
+}
+.tamaño-imagenes{
+  width: 342.75px;
+  height: 188.756px;
+}
+
+.titulo-trabajos{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+
+}
+section-trabajos .card{
+  box-shadow: 2px 2px 5px #999;
+
+}
+section-trabajos .card-title{
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+}
+section-trabajos .card-text{
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 20px;
+}
+
+.texto-frase2{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 7px;
+
+}
+.letra-header{
+  font-family: 'Six Caps', sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+  text-align: center;
+
+}
+section-contacto h1{
+font-family: 'Bangers', cursive;
+font-size: 4rem;
+text-align: center;
+}
+section-contacto{
+  background-color:#17a2b8;
+}
+.frase{
+  line-height: 25px;
+  margin-top: 15px;
+}
+.nombre-autor{
+  text-align: right;
+  font-family: 'Dancing Script', cursive;
+  margin-right: 20%;
+
+}
+.linea2{
+  color:#000000;
+  border: 2px solid;
+  margin-top: 3%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+footer {
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+footer h1{
+  color: white;
+}
+
+.letra-experiencia{
+  font-family: 'Bangers', cursive;
+}
+.titulo-experiencia{
+  text-align: center;
+  font-family: 'Bangers', cursive;
+}
+.adobe-blanco{
+  color: white;
+}
+.experiencia1{
+  text-align: center;
+}
+.parrafos{
+  padding-top: 5px;
+  display: inline-block;
+  text-align: center;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 20px;
+ }
+
+.prueba{
+  margin-top: 20%;
+}
+.letra-header2{
+  font-family: 'Bangers', cursive;
+  font-weight: 400;
+  text-align: center;
+  font-size: 50px
+}
+
+
+
+.linea-header{
+  color: white;
+  border: 2px solid;
+  margin-right: 35%;
+  margin-left: 35%;
+}
+
+
+
+/*
+    font-family: 'Bangers', cursive;
+
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+
+    font-family: 'Six Caps', sans-serif; */
